@@ -10,6 +10,7 @@ body{
     flex-direction:column;
     background-color: lightblue;
     height:96vh;
+    width:100vh;
     background-size: cover;
 }
 *{
@@ -85,3 +86,4 @@ body{
     color: white;
 
 }
+
