@@ -1,5 +1,6 @@
 body{
     background-size: cover;
+    background-color: lightblue;
 }
 .container{
     padding-top:20px;
@@ -82,4 +83,5 @@ body{
 .cal-btn:hover{
     background-color:rgb(67, 201, 34);
     color: white;
+
 }
